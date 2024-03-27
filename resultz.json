@@ -20,7 +20,7 @@
           "fullName": " Favorileri Gizle butonu tıklanınca favori panelini gizliyor.",
           "status": "passed",
           "title": "Favorileri Gizle butonu tıklanınca favori panelini gizliyor.",
-          "duration": 118,
+          "duration": 123,
           "failureMessages": []
         },
         {
@@ -30,7 +30,7 @@
           "fullName": " Favorileri Gizle butonu tıklandıkça, metni Favorileri göster ve Favorileri gizle arasında değişiyor.",
           "status": "passed",
           "title": "Favorileri Gizle butonu tıklandıkça, metni Favorileri göster ve Favorileri gizle arasında değişiyor.",
-          "duration": 31,
+          "duration": 59,
           "failureMessages": []
         },
         {
@@ -40,7 +40,7 @@
           "fullName": " Tüm filmler ekranda gösteriliyor",
           "status": "passed",
           "title": "Tüm filmler ekranda gösteriliyor",
-          "duration": 10,
+          "duration": 12,
           "failureMessages": []
         },
         {
@@ -50,7 +50,7 @@
           "fullName": " Detay butonu film detaylarını gösteriyor.",
           "status": "passed",
           "title": "Detay butonu film detaylarını gösteriyor.",
-          "duration": 66,
+          "duration": 50,
           "failureMessages": []
         },
         {
@@ -60,7 +60,7 @@
           "fullName": " Film detayları sayfasında Favorilere Ekle butonu filmi favori listesine ekliyor",
           "status": "passed",
           "title": "Film detayları sayfasında Favorilere Ekle butonu filmi favori listesine ekliyor",
-          "duration": 229,
+          "duration": 248,
           "failureMessages": []
         },
         {
@@ -70,7 +70,7 @@
           "fullName": " Film detayları sayfasında Favorilere Ekle butonu filmi favori listesine 2. kez eklemiyor",
           "status": "passed",
           "title": "Film detayları sayfasında Favorilere Ekle butonu filmi favori listesine 2. kez eklemiyor",
-          "duration": 74,
+          "duration": 61,
           "failureMessages": []
         },
         {
@@ -80,7 +80,7 @@
           "fullName": " sil butonu filmi siliyor ve tüm filmler sayfası açılıyor.",
           "status": "passed",
           "title": "sil butonu filmi siliyor ve tüm filmler sayfası açılıyor.",
-          "duration": 170,
+          "duration": 173,
           "failureMessages": []
         },
         {
@@ -90,7 +90,7 @@
           "fullName": " Yeni film ekleniyor ve tüm filmler sayfası açılıyor.",
           "status": "passed",
           "title": "Yeni film ekleniyor ve tüm filmler sayfası açılıyor.",
-          "duration": 1395,
+          "duration": 1407,
           "failureMessages": []
         },
         {
@@ -100,12 +100,12 @@
           "fullName": " AddMovieForm componentinde preventDefault kullanılmış",
           "status": "passed",
           "title": "AddMovieForm componentinde preventDefault kullanılmış",
-          "duration": 7,
+          "duration": 5,
           "failureMessages": []
         }
       ],
-      "startTime": 1711482991955,
-      "endTime": 1711482994057,
+      "startTime": 1711500794492,
+      "endTime": 1711500796630,
       "status": "passed",
       "message": "",
       "name": "C:/Users/Fatih ÇAKMAK/Documents/GitHub/projeler/sprint10/sprint10 gün2 proje1/src/__tests__/index.test.jsx"
